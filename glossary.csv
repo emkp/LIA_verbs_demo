@@ -1,4 +1,5 @@
-eng_updated_210129,transivity,TA,TI,AI,II,spelling_regularity,word_order_regularity
+updated_210228
+eng,transivity,TA,TI,AI,II,spelling_regularity,word_order_regularity
 be_ashamed,intrans,-,-,akacu,-,-,-
 be_dressed,intrans,-,-,aqu,-,-,-
 be_green,intrans,-,-,askasqisu,askasqáyu,-,-
@@ -36,6 +37,7 @@ read,intrans,-,-,akitusu,-,-,-
 remember,monotrans,mihqônumaw,mihqôtam,-,-,-,-
 resemble,intrans,-,-,-,aquniwôqat,-,-
 see,monotrans,náw,nám,-,-,-,-
+show,ditrans,kuhkotumaw,náhtus,-,-,irregular,-
 sit,intrans,-,-,apu,-,-,-
 smell_good,intrans,-,-,wuripuqus,wurimoqat,-,-
 sneeze,intrans,-,-,anu,-,-,-
